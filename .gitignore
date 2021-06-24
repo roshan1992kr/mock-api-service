@@ -30,8 +30,8 @@ nbdist/
 .classpath
 .project
 .settings/*
-target/*
-/target/
+#target/*
+#/target/
 *.class*
 bin/*
 *.log
